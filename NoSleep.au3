@@ -5,7 +5,7 @@
 #AutoIt3Wrapper_Res_Comment=Prevents your computer from locking or going to screensaver as it normally would when idle
 #AutoIt3Wrapper_Res_Description=Prevents your computer from locking or going to screensaver as it normally would when idle
 #AutoIt3Wrapper_Res_Fileversion=1.0.0.0
-#AutoIt3Wrapper_Res_LegalCopyright=Copyright Mike Langford ©2009
+#AutoIt3Wrapper_Res_LegalCopyright=Copyright Mike Langford Â©2009
 #AutoIt3Wrapper_Res_Language=1033
 #AutoIt3Wrapper_Run_AU3Check=n
 #ActiveTimeService= Updated from 1 minute to 30 seconds FranklinR
@@ -30,7 +30,7 @@ EndFunc
 
 
 Func About()
-	MsgBox(064,"No Sleep Utility","Prevents your computer from automatically locking or going to screen saver as it normally would." & @CRLF & "Copyright Mike Langford ©2009")
+	MsgBox(064,"No Sleep Utility","Prevents your computer from automatically locking or going to screen saver as it normally would." & @CRLF & "Copyright FranklinR Â©2016")
 EndFunc
 
 
